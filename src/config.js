@@ -5,7 +5,7 @@
 // link to his portfolio (starting with https://). If the portfolio moves — for
 // example to his own GitHub account — paste the new link here and push.
 // ─────────────────────────────────────────────────────────────────────────────
-export const PORTFOLIO_URL = 'https://enobot.github.io/nate/'
+export const PORTFOLIO_URL = 'https://nathanaelhaig.com/'
 
 /** True when `url` is an absolute http(s) link that is safe to navigate to. */
 export function isNavigableUrl(url) {
